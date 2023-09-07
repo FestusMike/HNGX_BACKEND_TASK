@@ -21,7 +21,7 @@ def get_info_in_json():
         "utc_time": utc_time,
         "track": "backend",
         "github_file_url": "https://github.com/FestusMike/HNGX_BACKEND_TASK/blob/main/json_endpoint.py",
-        "github_repo_url": "https://github.com/FestusMike/HNGX_BACKEND_TASK/tree/main",
+        "github_repo_url": "https://github.com/FestusMike/HNGX_BACKEND_TASK",
         "status_code": 200
     }
 
