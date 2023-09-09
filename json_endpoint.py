@@ -16,10 +16,10 @@ def get_info_in_json():
 
     
     response_data = {
-        "slack_name": "Micheal_Arifajogun",
+        "slack_name": slack_name,
         "current_day": current_day,
         "utc_time": utc_time,
-        "track": "backend",
+        "track": track,
         "github_file_url": "https://github.com/FestusMike/HNGX_BACKEND_TASK/blob/main/json_endpoint.py",
         "github_repo_url": "https://github.com/FestusMike/HNGX_BACKEND_TASK",
         "status_code": 200
